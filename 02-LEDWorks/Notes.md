@@ -1,4 +1,4 @@
-### How does a LED work ?
+# How does a LED work ?
 
 ## What I learnt: 
 1. What is a semi-conductor ? A semi-conductor is a material that be changed to an insulator and a conductor by heating it or cooling it down.
@@ -9,3 +9,6 @@
 6. On Diodes: When the potential difference is reversed, the electrons cannot flow anymore (the barrier between both types is lifted too high). This is how a diode works, current can only flow in one direction, this is why the cathode and anode of the LED has to be coherent with the direction of current. The cathode corresponding to the n-type semi-conductor part of the led has to be towards the negative part of the voltage, and the anode corresponding to the p-type semi-conductor has to be towards the positive voltage. 
 7. Resistors: As the potential difference in the circuit increases, the current increases exponantially. If current is too high, the LED will burn out and the smoke inside of it will be let out, not being able to work anymore. A resistor is added to the circuit to regulate the current passing in the LED. 
 8. Colour of the LED: The gap between the semi-conductor's bands determine the colour of the LED, this is called the energy gap. 
+
+## Resources:
+"Arduino Tutorial 2: Understanding How Light Emitting Diodes (LEDs) Work" by Paul McWhorter
