@@ -14,10 +14,10 @@ In my first lesson, I learnt how to turn the L LED connected to Pin 13 on and of
 8. Repeats forever
 
 ## What I learned:
-*void setup() is the section of code that will be read once, used as a setup for the code that comes in the loop.
-*void loop() is the section that repeats the code written.
-*pinMode("pin", "OUTPUT or INPUT") tells the arduino what pin is being used and what function it will have
-*digitalWrite("pin","value") tells the specific pin to turn the power on or off (HIGH or LOW respectively)
+* void setup() is the section of code that will be read once, used as a setup for the code that comes in the loop.
+* void loop() is the section that repeats the code written.
+* pinMode("pin", "OUTPUT or INPUT") tells the arduino what pin is being used and what function it will have
+* digitalWrite("pin","value") tells the specific pin to turn the power on or off (HIGH or LOW respectively)
 
 ## Resources I used:
 "Arduino Tutorial 1: Setting Up and Programming the Arduino for Absolute Beginners" by Paul McWhorter
