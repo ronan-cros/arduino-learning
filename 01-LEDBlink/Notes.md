@@ -19,5 +19,5 @@ In my first lesson, I learnt how to turn the L LED connected to Pin 13 on and of
 * pinMode("pin", "OUTPUT or INPUT") tells the arduino what pin is being used and what function it will have
 * digitalWrite("pin","value") tells the specific pin to turn the power on or off (HIGH or LOW respectively)
 
-## Resources I used:
+## Resources:
 "Arduino Tutorial 1: Setting Up and Programming the Arduino for Absolute Beginners" by Paul McWhorter
