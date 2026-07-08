@@ -31,3 +31,4 @@ Something that caught my eye:
 Since current can only flow through a closed circuit, my body might have acted as a conductor. Although, the pin wasn't on and there was no voltage ouptut, which is strange.
 
 Resources I used:
+"Arduino Tutorial 3: Understanding How Breadboards Work" by Paul McWhorter
